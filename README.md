@@ -10,7 +10,7 @@ The code example was written referring to the “CE222046 – PSoC 6 BLE Through
 
 ## Requirements
 
-- [ModusToolbox™ software](https://www.cypress.com/products/modustoolbox-software-environment) v2.4
+- [ModusToolbox™ software](https://www.cypress.com/products/modustoolbox-software-environment) v3.0
 
 ## The Provisioning of the RDK3
 

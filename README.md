@@ -12,6 +12,16 @@ The code example was written referring to the “CE222046 – PSoC 6 BLE Through
 
 - [ModusToolbox® software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/) **v3.x** [built with **v3.0**]
 
+- [ModusToolbox® software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/) **v3.2**: 
+
+1. The [Python](https://www.python.org/) has to be installed manually on Windows OS.
+2. Make sure the Python installation is added to the path variable. 
+3. Use this command to install the [cysecuretools](https://pypi.org/project/cysecuretools/) package:
+
+```
+pip install cysecuretools
+```
+
 ## Supported toolchains (make variable 'TOOLCHAIN')
 
 - GNU Arm&reg; Embedded Compiler v11.3.1 (`GCC_ARM`) - Default value of `TOOLCHAIN`
